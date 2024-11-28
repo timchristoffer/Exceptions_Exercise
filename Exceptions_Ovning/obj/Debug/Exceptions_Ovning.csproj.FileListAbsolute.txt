@@ -1,0 +1,7 @@
+C:\Users\timda\OneDrive\Skrivbord\X\Skola\Testning, verifiering & Certifiering\Exceptions_Ovning\Exceptions_Ovning\Exceptions_Ovning\bin\Debug\Exceptions_Ovning.exe.config
+C:\Users\timda\OneDrive\Skrivbord\X\Skola\Testning, verifiering & Certifiering\Exceptions_Ovning\Exceptions_Ovning\Exceptions_Ovning\bin\Debug\Exceptions_Ovning.exe
+C:\Users\timda\OneDrive\Skrivbord\X\Skola\Testning, verifiering & Certifiering\Exceptions_Ovning\Exceptions_Ovning\Exceptions_Ovning\bin\Debug\Exceptions_Ovning.pdb
+C:\Users\timda\OneDrive\Skrivbord\X\Skola\Testning, verifiering & Certifiering\Exceptions_Ovning\Exceptions_Ovning\Exceptions_Ovning\obj\Debug\Exceptions_Ovning.csproj.AssemblyReference.cache
+C:\Users\timda\OneDrive\Skrivbord\X\Skola\Testning, verifiering & Certifiering\Exceptions_Ovning\Exceptions_Ovning\Exceptions_Ovning\obj\Debug\Exceptions_Ovning.csproj.CoreCompileInputs.cache
+C:\Users\timda\OneDrive\Skrivbord\X\Skola\Testning, verifiering & Certifiering\Exceptions_Ovning\Exceptions_Ovning\Exceptions_Ovning\obj\Debug\Exceptions_Ovning.exe
+C:\Users\timda\OneDrive\Skrivbord\X\Skola\Testning, verifiering & Certifiering\Exceptions_Ovning\Exceptions_Ovning\Exceptions_Ovning\obj\Debug\Exceptions_Ovning.pdb
